@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  color:antiquewhite;
+}
+
+.main-banner {
+  width: 60%;
+  margin-left: 20%;
+}
+
+.header {
+ text-align: center;
+}
+
+h2 {
+  font-size: 2em;
+  color: whitesmoke;
+  margin-top: 3rem;
+  
+}
+
+.btn {
+  margin: 3em;
+  font-size: 1.5rem;
+  padding: 1.5em;
+  color: black;
+}
+.card-div {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  padding: 5em;
+}
