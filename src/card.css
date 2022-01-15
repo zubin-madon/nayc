@@ -29,7 +29,7 @@
     justify-content: flex-start;
     align-items: right;
     text-align: right;
-    padding-left: 20%;
+    padding-left: 30%;
     color: #000;
     text-transform: uppercase;
     font-size: 1rem;
@@ -49,7 +49,7 @@
     justify-content: flex-start;
     align-items: right;
     text-align: right;
-    padding-left: 30%;
+    padding-left: 50%;
     color: #000;
     text-transform: uppercase;
     font-size: 1rem;
@@ -69,7 +69,7 @@
     justify-content: flex-start;
     align-items: right;
     text-align: right;
-    padding-left: 30%;
+    padding-left: 50%;
     color: #000;
     text-transform: uppercase;
     font-size: 1rem;
@@ -78,7 +78,7 @@
   }
   
   h1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
   
   .card .enclosed {
@@ -86,7 +86,7 @@
     line-height: 1;
     color: rgba(249, 198, 26, 1);
     padding-left: 30%;
-    padding-right: 0.5rem;
+    padding-right: 0.1rem;
     display: inline-block;
     transform: translate(-0.5rem, 0.5rem) scale(0.85);
     transform-origin: right center;
@@ -94,11 +94,11 @@
   }
   
   .card1 .enclosed {
-    background: rgba(255, 255, 255, 0);
+    background: rgba(249, 198, 26, 0);
     line-height: 1;
     color: rgba(249, 198, 26, 1);
     padding-left: 30%;
-    padding-right: 0rem;
+    padding-right: 0.1rem;
     display: inline-block;
     transform: translate(-0.5rem, 0.5rem) scale(0.85);
     transform-origin: right center;
@@ -109,7 +109,7 @@
     line-height: 1;
     color: rgba(249, 198, 26, 1);
     padding-left: 30%;
-    padding-right: 1rem;
+    padding-right: 0.1rem;
     display: inline-block;
     transform: translate(-0.5rem, 0.5rem) scale(0.85);
     transform-origin: right center;
