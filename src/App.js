@@ -13,7 +13,7 @@ function App() {
      </a><br/>
      <a href="https://twitter.com/neuralapesyc" target="_blank" rel="noreferrer"><img className="h-full inline-flex items-center" src={require("./assets/icons8-twitter-50.png")} alt="Twitter @NeuralApesYC"></img></a>
     </div>
-    <div className='card-div grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6'>
+    <div className='card-div grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-4'>
       <Card />
     </div>
     <h4 className='text-center text-white'>Copyrights {new Date().getFullYear()} Neural Aped Yacht Club.</h4>
