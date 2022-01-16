@@ -4,22 +4,21 @@ import './card.css'
 function Card () {
         return (
     <div className='card-page px-2 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6'>
-
     <div className="mx-2 wrapper">
     <div className="card">
     <h1>
       <span className="enclosed">Secondary Listing Post Mint</span>ME/ DE
     </h1>
   </div>
-</div>&nbsp;&nbsp;
+</div>&nbsp;
 
 <div className="mx-2 wrapper">
   <div className="card1">
     <h1>
-      <span className="enclosed">Future</span>Community/<br/>DAO<br/>Gamification<br/>
+      <span className="enclosed">Future</span>Community/<br/>DAO<br/>Gamification
     </h1>
   </div>
-</div>&nbsp;&nbsp;
+</div>&nbsp;
 
 <div className="mx-2 wrapper">
   <div className="card2">
