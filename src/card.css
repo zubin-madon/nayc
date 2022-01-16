@@ -19,7 +19,7 @@
   .card {
     grid-area: 1 / 1;
     height: 15rem;
-    width: 30rem;
+    width: 25rem;
     transform: translateX(1rem) rotateY(25deg) rotateX(10deg);
     background-image: url("./assets/ape1.jpg");
     background-color: rgb(255, 251, 4, 0.2);
@@ -39,7 +39,7 @@
   .card1 {
     grid-area: 1 / 1;
     height: 15rem;
-    width: 30rem;
+    width: 25rem;
     transform: translateX(1rem) rotateY(25deg) rotateX(10deg);
     background-image: url("./assets/ape2.jpg");
     background-color: rgb(255, 251, 4, 0.2);
@@ -59,7 +59,7 @@
   .card2 {
     grid-area: 1 / 1;
     height: 15rem;
-    width: 30rem;
+    width: 25rem;
     transform: translateX(1rem) rotateY(25deg) rotateX(10deg);
     background-image: url("./assets/ape3.jpg");
     background-color: rgb(255, 251, 4, 0.2);
@@ -121,7 +121,7 @@
     content: '';
     backface-visibility: hidden;
     height: 100%;
-    width: 30rem;
+    width: 25rem;
     margin-top: calc(-1 * var(--bw));
     margin-left: calc(-1 * var(--bw));
     background: transparent;
