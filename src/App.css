@@ -68,7 +68,7 @@ h2 {
 }
 .card-div {
   text-align: center;
-  display: flex;
+  display: grid;
   flex-direction: row;
   padding: 1.5rem;
 }
